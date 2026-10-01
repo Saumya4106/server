@@ -16,3 +16,8 @@
 1790825630839: /search New Req Received
 1790825665235: /search?search_query=javascirpt_tic+tac+toe New Req Received
 1790825730597: /search?username=saumya&userId=1 New Req Received
+1790872468178: GET / New Req Received
+1790872480442: GET /signup New Req Received
+1790872543758: GET /signup New Req Received
+1790872561898: GET /about New Req Received
+1790872568402: GET / New Req Received
